@@ -8,8 +8,6 @@
 
 <h2>Languages</h2> 
 <li>PHP, HTML, CSS</li>
-
-
 <br></br>
 # Usage
 <h2>Registration</h2>
@@ -22,7 +20,6 @@
 <li>
     The user will login with the following information user(<u>username, password, firstName, lastName, email</u>) 
 </li>  
-
 <br></br>
 
 # Functionalities
